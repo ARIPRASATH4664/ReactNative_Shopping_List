@@ -1,3 +1,15 @@
+# Recording
+
+
+https://github.com/ARIPRASATH4664/ReactNative_Shopping_List/assets/65212662/060e7141-1ecd-4ab6-95eb-57fc8888c62b
+
+
+# Concepts
+1. Redux
+2. Local Storage
+3. Stack, Tab Navigation
+4. Google Sign in
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
