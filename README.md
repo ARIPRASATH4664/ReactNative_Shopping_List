@@ -4,6 +4,10 @@
 https://github.com/ARIPRASATH4664/ReactNative_Shopping_List/assets/65212662/060e7141-1ecd-4ab6-95eb-57fc8888c62b
 
 
+https://github.com/ARIPRASATH4664/ReactNative_Shopping_List/assets/65212662/13261302-9f3a-4a70-8085-1bb183a1963b
+
+
+
 # Concepts
 1. Redux
 2. Local Storage
